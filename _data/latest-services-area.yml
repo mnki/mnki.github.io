@@ -1,0 +1,25 @@
+- image: assets/images/services-4.1.jpg
+  title: Desktop Computing
+  description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiuto-tam rem aperiam eaque ipsa quae inventore'
+  link: '#'
+- image: assets/images/services-4.2.jpg
+  title: Big Data & Analytics
+  description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiuto-tam rem aperiam eaque ipsa quae inventore'
+  link: '#'
+- image: assets/images/services-4.3.jpg
+  title: It Management System
+  description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiuto-tam rem aperiam eaque ipsa quae inventore'
+  link: '#'
+- image: assets/images/services-4.4.jpg
+  title: Dedicated IT Solution
+  description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiuto-tam rem aperiam eaque ipsa quae inventore'
+  link: '#'
+- image: assets/images/services-4.5.jpg
+  title: Web Development
+  description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiuto-tam rem aperiam eaque ipsa quae inventore'
+  link: '#'
+- image: assets/images/services-4.6.jpg
+  title: Big Data & Analytics
+  description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiuto-tam rem aperiam eaque ipsa quae inventore'
+  link: '#'
+  

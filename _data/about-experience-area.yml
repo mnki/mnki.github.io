@@ -1,0 +1,25 @@
+tagline: 25 Years Of Experience
+title: Not only explore for job done.
+experience_text: Does any industry face a more complex audience journey and marketing sales process than B2B technology? Consider the number of people who influence a sale, the length of the decision-making cycle, the competing interests of the people who purchase, implement, manage, and use the technology. It’s a lot meaningful content here.
+experience_url: '#'
+
+
+experiences:
+  - image: assets/images/experience-1.jpg
+    title: Design & Development
+    description: The functional goal of technical content is to help people use a product.
+    link: '#' 
+    icon: 'fa-laptop-code'
+
+  - image: assets/images/experience-2.jpg
+    title: Technical Support
+    description: The functional goal of technical content is to help people use a product.
+    link: '#' 
+    icon: 'fa-headphones-alt'
+
+  - image: assets/images/experience-3.jpg
+    title: Digital Marketing
+    description: The functional goal of technical content is to help people use a product.
+    link: '#' 
+    icon: 'fa-analytics'
+

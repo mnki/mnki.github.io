@@ -1,0 +1,26 @@
+tagline: who we are
+title: We Work Hard Play Hard Explore Creative Mmind
+description: 'Perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem-quelaudantium, totam rem aperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavoluptas sit aspernatur aut odit aut fugit, sed quia quuntur magni dolores eos ratione voluptatem sequi nesciunt eque porroe. '
+
+slider:
+  - icon: 'fal fa-laptop-code'
+    title: IT Soluations
+    description: Sed ut perspiciatis unde omnis iste natus error volup
+    link: '#' 
+
+  - icon: 'fal fa-fingerprint'
+    title: Security System
+    description: Sed ut perspiciatis unde omnis iste natus error volup
+    link: '#' 
+
+  - icon: 'fal fa-chalkboard'
+    title: Web Development
+    description: Sed ut perspiciatis unde omnis iste natus error volup
+    link: '#' 
+
+  - icon: 'fal fa-database'
+    title: Database Security
+    description: Sed ut perspiciatis unde omnis iste natus error volup
+    link: '#' 
+
+  
